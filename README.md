@@ -51,7 +51,7 @@ Direct connection: CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-09-23 at 08 39 38_45d9819c](https://github.com/user-attachments/assets/6d17ae6b-999a-4274-bf20-c0e4bfec9c30)
 
 	
-##Cross connection: 
+Cross connection: 
 
 CIRCUIT DIAGRAM:
 
