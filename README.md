@@ -39,6 +39,13 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
+
+
+
+
+
+
+
 Direct connection: CIRCUIT DIAGRAM: 
 ![WhatsApp Image 2025-09-30 at 08 44 09_43c96db9](https://github.com/user-attachments/assets/dd579896-327d-40de-a1c9-7e3d70a86210)
 
